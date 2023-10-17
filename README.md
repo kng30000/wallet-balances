@@ -11,4 +11,4 @@ https://cloud.debank.com/dashboard/open-api
 
 Search 'AccessKey' in wallets.py and change to your Debank access key
 
-3) python wallets.py
+    python wallets.py
