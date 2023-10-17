@@ -1,6 +1,8 @@
 # wallet-balances
 Checks all Metamask wallet balances and outputs them to a spreadsheet
 
+
+
 1) Download Metamask state logs and save as 'metamask.json' in the same folder
 
 Settings > Advanced > Download State Logs
